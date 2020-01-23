@@ -1,0 +1,26 @@
+﻿Corebiz Argentina
+Challenge 2020
+
+El desafio es realizar la maquetación de la imagen Challenge Corebiz.jpg y Challenge Corebiz Mobile.jpg
+Se incluye Challenge-Julio19-Corebiz.xd
+
+Datos relevantes:
+	- El max-width debe ser de 1200px
+	- Color primario: #62321D
+	- Color secundario: #E6CFB2
+	- Fuente utilizar desde Google Fonts: Lato 20px normal y bold
+	- Utilizar preferentemente flex o grid. 
+	- El slide principal debe contener varios items con la misma imagen
+	- Ultimos 4 productos: se debe realizar un request a "https://corebiz.myvtex.com/api/catalog_system/pub/products/search/tablete" lo cual devolverá un json con al menos 10 productos. 
+		Tomar 4 de ellos: 'productTitle' para el titulo, 'productReference' para el código, 'link' para el href de cada botón y 'imageUrl' para la imgen del producto.
+	- Mobile: a 480px el menu debe pasar a hamburguesa (no es necesario generar categorias o submenues)
+	- Mobile: El slide principal debe desaparecer
+	- Mobile: Ocultar uno de los 3 bloques, solo deben quedar 2 con su texto y botón
+	- Mobile: Ultimos 4 productos, solo deben quedar 2.
+
+
+El proyecto debe ser subido a Github y compartir la url.
+Finalizado se debe compartir el repositorio a martin.roffe@corebizglobal.com y a andres.almada@corebizglobal.com
+
+Muchas gracias.
+
